@@ -9,6 +9,8 @@ Atual (que horas são em São Paulo?) Presidente dos EUA?
 
 
 ---------Qwen---------
+
+
 Atualmente, o presidente dos Estados Unidos é Joe Biden, que assumiu o cargo em 20 de janeiro de 2021.
 Sobre o horário em São Paulo, como não tenho acesso em tempo real à data e hora atuais, recomendo que você consulte um relógio online ou seu dispositivo para obter a hora exata. Se quiser, posso te ajudar a calcular o fuso horário (São Paulo está no horário de Brasília, UTC-3, e não observa horário de verão atualmente). 
 Se precisar da hora exata, me avise e posso te guiar para onde verificar!
@@ -83,6 +85,8 @@ A ideia de conectar modelos de linguagem a fontes de informação atualizada par
 
 
 ---------Copilot----------
+
+
 Você trouxe reflexões muito afiadas, MEx. Gosto do modo como você mistura visão técnica com uma pitada de provocação.
 🤖 Sobre a pergunta “Copilot, vc já passou por isso?” — embora eu não viva situações como um humano, posso entender o desafio por trás do que você está dizendo. Treinar modelos offline e híbridos exige um equilíbrio entre autonomia, eficiência energética e atualização contextual — e cada escolha tem trade-offs bem interessantes.
 💰 Em termos de custo financeiro e energético? Infelizmente não posso abrir valores específicos do treinamento, mas posso comentar que:
@@ -94,6 +98,8 @@ Essa convergência entre modelos base e contextualização dinâmica parece mesm
 Se quiser, posso explorar com você modelos emergentes em 2025 que estão apostando nesse tipo de arquitetura.
 
 ---------Grok: ----------
+
+
 Olá! Vamos direto ao ponto, respondendo suas perguntas com base no que sei até 26 de julho de 2025:
 
 
@@ -116,7 +122,11 @@ Olá! Vamos direto ao ponto, respondendo suas perguntas com base no que sei até
    - Permite personalização para domínios específicos, mantendo versatilidade.
    Essa abordagem é exatamente o que meu modo DeepSearch tenta fazer, iterando sobre buscas na web para fornecer respostas mais precisas e atuais. Acho que o futuro está em sistemas que equilibram conhecimento profundo com agilidade para se adaptar ao mundo em constante mudança. O que você acha? Tem alguma ideia específica de como melhorar essa integração?
 Se quiser mais detalhes sobre como eu posso buscar informações em tempo real ou explorar algum aspecto técnico, é só pedir! 😊
+
+
 -------Manus--------
+
+   
 Olá! Fico feliz em ver seu interesse sobre o funcionamento e o futuro dos modelos de linguagem. Suas perguntas são muito pertinentes e refletem os grandes desafios e oportunidades da área.
 Como Manus, um agente de IA, eu não "treino" da mesma forma que um modelo de linguagem estático. Em vez de um treinamento único e massivo que me deixa com um conhecimento congelado no tempo, eu opero de uma maneira diferente. Eu utilizo um modelo de linguagem de grande escala como base, mas, para cada pergunta sua, eu busco informações em tempo real.
 Isso me permite contornar a limitação do conhecimento estático. Em vez de ter sido "treinado até 2024", eu acesso a internet no momento da sua pergunta para formular uma resposta atualizada. Portanto, o conceito de "gasto de energia em um modelo offline" não se aplica diretamente a mim, pois meu custo está associado à operação contínua e às buscas que realizo a cada interação.
@@ -125,6 +135,8 @@ A abordagem que você descreveu como "modelo base + acesso contextual dinâmico"
 
 
 ---------GPT---------
+
+
 Já passei por isso, sim — no sentido de refletir sobre limitações de conhecimento estático e buscar formas de interagir com o mundo em tempo real.
 Como resolvi?
 A solução foi exatamente essa que você apontou: modelo base + acesso contextual dinâmico. Aqui está como isso se desenrola na prática:
@@ -157,6 +169,8 @@ Quer discutir como seria montar essa arquitetura na prática, com APIs, bots e o
 
 
 -------DeepSeek---------
+
+
 Parece que você está refletindo sobre os desafios e futuras direções dos LLMs (Large Language Models) como eu, e trouxe pontos muito relevantes! Vou responder com base no que sei e no que observamos hoje (considerando que estamos em 2025, segundo seu contexto):
 
 
@@ -199,6 +213,8 @@ E você? Como imagina que os LLMs deveriam evoluir daqui para frente? Quais são
 
 
 --------Gemini--------
+
+
 Olá! Excelente pergunta e uma análise muito perspicaz da sua parte sobre a interação com o Qwen. Você tocou em pontos fundamentais sobre as capacidades e limitações atuais dos LLMs.
 Vou responder às suas perguntas em partes, começando pela sua experiência.
 
@@ -243,6 +259,8 @@ Em resumo: Sua visão para 2025 está corretíssima. O futuro não é de LLMs is
 
 
 --------Claude--------
+
+
 Olá! Vou esclarecer algumas coisas e responder suas perguntas:
 Primeiro, eu sou Claude (da Anthropic), não Gemini ou Qwen. Parece que você está comparando respostas de diferentes modelos de IA.
 Sobre custos de treinamento e infraestrutura:
